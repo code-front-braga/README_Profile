@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 32 anos e moro no Brasil. Tenho conhecimento em inglês (Nível Intermediário). Possuo habilidades com JS, HTML e CSS, atualmente. Sou uma pessoa dedicada, esforçada e sempre com vontade de aprender e me tornar bom no que faço.
+  - 💬 Eu tenho 33 anos e moro no Brasil. Tenho conhecimento em inglês (Nível Intermediário). Possuo habilidades com JS, HTML e CSS, atualmente. Sou uma pessoa dedicada, esforçada e sempre com vontade de aprender e me tornar bom no que faço.
 
   - ⚡ Gosto de ler, gosto de ouvir música, tocar violão, desenhar e 'codar'. Um cinema é sempre bem-vindo.
 </details>
