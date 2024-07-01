@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-braga-8b7856216/)
 
 ## Portifólio:
-- [Landing Page Interativo - O Rei Leão] (https://github.com/code-front-braga/LION-KING-LANDING-PAGE)
+- [Landing Page Interativo - O Rei Leão](https://github.com/code-front-braga/LION-KING-LANDING-PAGE)
 - [Clone da primeira tela da Netflix (Responsivo)](https://github.com/code-front-braga/Netflix-Login)
 - [Landing Page (Responsivo) - Estudo](https://github.com/code-front-braga/landing-page)
 - [Cronômetro](https://github.com/code-front-braga/Timer)
