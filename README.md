@@ -1,49 +1,82 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<h1 align="left">Olá, programadores! Sou o Leonardo.</h1>
+
+###
+
+<h2 align="left">Quem sou eu?</h2>
+
+###
+
+<p align="left">Sou um estudante de programação dedicado, em busca da minha primeira oportunidade de trabalho. Atualmente, estou focado no <strong>Desenvolvimento Web</strong>, com o objetivo de me tornar um <i>arquiteto de software</i> no futuro. Estou continuamente aprimorando minhas habilidades para alcançar esse nível. Tenho uma grande paixão por escrever códigos bem organizados e concisos, sempre buscando maneiras de torná-los mais eficientes e simplificados.</p>
+
+###
+
+<div align="left">
+  <img height="500" width="100%" src="https://wallpaperaccess.com/full/7990034.png"  />
 </div>
 
-<p>
-  Olá 👋, Eu sou o Leonardo. Um apaixonado pelo Desenvolvimento Web Fron-end!
+###
 
-  - 🌱 Estudo sobre programação desde agosto/2023 e venho aprimorando minhas habilidades em JS, HTML e CSS. Estou cursando, também, Ciências da Computação - 2º Semestre
-  - 🔭 Estou procurando pelo primeiro emprego na área. Não vejo a hora de pôr em prática meu aprendizado e aperfeiçoar mais e mais
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/leonardo-braga-8b7856216/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+###
 
-  - 💬 Eu tenho 33 anos e moro no Brasil. Tenho conhecimento em inglês (Nível Intermediário). Possuo habilidades com JS, HTML e CSS, atualmente. Sou uma pessoa dedicada, esforçada e sempre com vontade de aprender e me tornar bom no que faço.
+<p align="left">Antes de explorar meus repositórios, peço gentilmente que leia as informações a seguir!</p>
 
-  - ⚡ Gosto de ler, gosto de ouvir música, tocar violão, desenhar e 'codar'. Um cinema é sempre bem-vindo.
-</details>
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-braga-8b7856216/)
+<h2 align="left">Organização e Nomenclaturas</h2>
 
-## Portifólio:
-- [Landing Page Interativo - O Rei Leão](https://github.com/code-front-braga/LION-KING-LANDING-PAGE)
-- [Clone da primeira tela da Netflix (Responsivo)](https://github.com/code-front-braga/Netflix-Login)
-- [Landing Page (Responsivo) - Estudo](https://github.com/code-front-braga/landing-page)
-- [Cronômetro](https://github.com/code-front-braga/Timer)
-- [Relógio](https://github.com/code-front-braga/Basic-Relogio/)
-- [Cálculo IMC](https://github.com/code-front-braga/Calculo-IMC)
-- [Validação de Formulário](https://github.com/code-front-braga/Validation-Form)
+###
 
-<p align="left">
-  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3gwYTg0YmVpcWx1azRqMG93YzNoNnE0M3RmZHp4YmRzMzhjMHAwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Imagem">
-</p>
+Para facilitar a organização, utilizarei os seguintes prefixos para os repositórios:
+- **PRT _(Project)_:** para projetos.
+- **STY _(Study)_:** para materiais de estudo.
+- **CHLG _(Challenge)_:** para desafios
 
-## 🔥 Habilidades
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Desenvolvimento Web</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg">
-  </div>
+A formatação final dos nomes dos repositórios será:
 
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas e Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+Ex.:
+
+- _**PRT-Nome_do_Projeto**_
+- _**STY-Nome_do_Tema**_
+- _**CHLG-Nome_do_Desafio-Plataforma**_
+
+Cada repositório contará com um README que detalhará todas as informações relevantes sobre ele.
+
+###
+
+<h2 align="left">Tecnologias e Bibliotecas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+</div>
+
+###
+
+<h2 align="left">Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
