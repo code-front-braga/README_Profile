@@ -42,7 +42,7 @@ Atenção: Estou fazendo ajustes em alguns projetos e em breve os disponibilizar
 ###
 
 Para facilitar a organização, utilizarei os seguintes prefixos para os repositórios:
-- **PRT _(Project)_:** para projetos.
+- **PR _(Project)_:** para projetos.
 - **STY _(Study)_:** para materiais de estudo.
 - **CHLG _(Challenge)_:** para desafios
 
@@ -50,7 +50,7 @@ A formatação final dos nomes dos repositórios será:
 
 Ex.:
 
-- _**PRT-Nome_do_Projeto**_
+- _**PR-Nome_do_Projeto**_
 - _**STY-Nome_do_Tema**_
 - _**CHLG-Nome_do_Desafio-Plataforma**_
 
