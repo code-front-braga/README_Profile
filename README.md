@@ -16,7 +16,7 @@
 
 ###
 
-<h2>Repositórios</h2>
+<h2>Repositórios Atualizados</h2>
 
 - [PR-Web_Clock](https://github.com/code-front-braga/PR-Basic_Clock)
 - [PR-Chronometer](https://github.com/code-front-braga/PR-Chronometer/)
