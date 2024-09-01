@@ -21,6 +21,7 @@
 - [PR-Web_Clock](https://github.com/code-front-braga/PR-Basic_Clock)
 - [PR-Chronometer](https://github.com/code-front-braga/PR-Chronometer/)
 - [PR-Calculator](https://github.com/code-front-braga/PR-Basic_Calculator)
+- [PR-Whats_Your_Sign](https://github.com/code-front-braga/PR-Whats_Your_Sign)
 
 Atenção: Estou fazendo ajustes em alguns projetos e em breve os disponibilizarei aqui!
 
