@@ -23,7 +23,9 @@
 - [PR-Calculator](https://github.com/code-front-braga/PR-Basic_Calculator)
 - [PR-Whats_Your_Sign](https://github.com/code-front-braga/PR-Whats_Your_Sign)
 
-Atenção: Estou fazendo ajustes em alguns projetos e em breve os disponibilizarei aqui!
+<h2>Novos Repositórios Adicionados</h2>
+
+- Em breve!
 
 ###
 
