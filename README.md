@@ -16,6 +16,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/leonardo-braga-8b7856216/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <h2>Repositórios Atualizados</h2>
 
 - [PR-Web_Clock](https://github.com/code-front-braga/PR-Basic_Clock)
@@ -25,15 +33,8 @@
 
 <h2>Novos Repositórios Adicionados</h2>
 
-- Em breve!
+- [PR-Counter](https://github.com/code-front-braga/PR-Counter)
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/leonardo-braga-8b7856216/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
