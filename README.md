@@ -34,6 +34,7 @@
 <h2>Novos Repositórios Adicionados</h2>
 
 - [PR-Counter](https://github.com/code-front-braga/PR-Counter)
+- [PR-BMI](https://github.com/code-front-braga/PR-Whats_Your_Zodiac_Sign)
 
 
 ###
