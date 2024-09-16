@@ -50,7 +50,8 @@
 Para facilitar a organização, utilizarei os seguintes prefixos para os repositórios:
 - **PR _(Project)_:** para projetos.
 - **STY _(Study)_:** para materiais de estudo.
-- **CHLG _(Challenge)_:** para desafios
+- **CHLG _(Challenge)_:** para desafios.
+- **UTIL_(nome)_:** para utilidades.
 
 A formatação final dos nomes dos repositórios será:
 
